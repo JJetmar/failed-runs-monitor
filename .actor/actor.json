@@ -1,5 +1,7 @@
 {
 	"actorSpecification": 1,
+	"title": "majne title",
+	"description": "Majne description",
 	"name": "failed-runs-monitor",
 	"version": "0.2",
 	"buildTag": "latest",
